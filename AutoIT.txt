@@ -1,0 +1,13 @@
+AutoIT :-
+-It is support Mac nd Linux.
+-With the help of find tool find the source code of the element.
+-Scite it is a editor window
+-AutoIT help 
+
+
+1)ControlFocus ( "Open", " ", "Edit1" ) -----> use for File name
+2)ControlSetText ( "Open", " ", "Edit1","‪C:\Users\hp\Desktop\Selenium\chromedriver.exe" )
+3)ControlClick ( "Open", " ", "Button1" ) ----> use for open 
+save filename.au3
+
+
